@@ -10,7 +10,7 @@
 | [87](./87/) |   | 
 | [88](./88/) |   | Correcta. Para que funcione con idioma español habría que poner:   output = string.Format(CultureInfo.GetCultureInfo("en-us"), "Temperature at {0:t} on {0:d} : {1:N2}", date, temp);
 | [140](./140/) |   | 
-| [141](./141/) |   | 
+| [141](./141/) |   | Correcto --> Opcion C
 | [181](./181/) |   | 
 | [198](./198/) |   | 
 | [215](./215/) |   | 
