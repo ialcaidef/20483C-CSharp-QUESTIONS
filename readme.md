@@ -3,10 +3,10 @@
 
 | N. | Question | Observacion
 | :--- | --- | :---:
-| [17](./17/) |   | 
+| [17](./17/) |   | Correcta
 | [18](./18/) |   | Correcta
 | [21](./21/) |   | 
-| [22](./22/) |   | 
+| [22](./22/) |   | Incorrecta, sería oneProduct.GetType().GetProperties().First(prop => prop.Name == "Name").GetValue(oneProduct).ToString();
 | [87](./87/) |   | 
 | [88](./88/) |   | 
 | [140](./140/) |   | 
